@@ -1,5 +1,3 @@
-# header
-
 # YSOLOMONS_CAPITEC_CHALLENGE
 
 # Project Overview
